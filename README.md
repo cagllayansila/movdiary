@@ -74,9 +74,9 @@ flutter run
 
 
 ### Keşfet
-<img width="506" height="896" alt="kesfet" src="https://github.com/user-attachments/assets/7f1d28ec-9355-4eae-89cc-ecc4957bcea6" />
-
+<img width="505" height="880" alt="kkkesfet" src="https://github.com/user-attachments/assets/50dba23d-b7bb-4836-9f4b-6719dd7c8ef0" />
 Diğer kullanıcıların film yorumlarını görün.
+
 
 ### Paylaş
 <img width="505" height="883" alt="ekle" src="https://github.com/user-attachments/assets/e3801d90-b0f1-4e96-bb41-60dec3acd4c7" />
@@ -84,13 +84,12 @@ Diğer kullanıcıların film yorumlarını görün.
 Yeni film yorumu ekleyin, puan verin ve fotoğraf paylaşın.
 
 ### Kaydedilenler
-<img width="511" height="891" alt="kaydedilenler" src="https://github.com/user-attachments/assets/80dfd0ba-704f-4130-a423-c59c58a0108e" />
+<img width="502" height="881" alt="fav" src="https://github.com/user-attachments/assets/2935fa57-462e-43a2-b0cb-298d93e5e24b" />  <img width="503" height="882" alt="fav2" src="https://github.com/user-attachments/assets/7f134dae-0bc5-4c1c-8901-c42989aaa6a3" />
 
-Kaydettiğiniz filmleri görüntüleyin.
+Kaydettiğiniz filmleri ve yaptığınız paylaşımları görüntüleyin.
 
 ### Ayarlar
-<img width="505" height="879" alt="ayarlar" src="https://github.com/user-attachments/assets/a32d90aa-84ff-41ca-a584-9b8effc98c9e" /><img width="503" height="887" alt="ayarlar2" src="https://github.com/user-attachments/assets/8c7f73d2-78c5-4f9a-80b7-f7bfcc8eb751" />
-
+<img width="496" height="893" alt="ayarlar3" src="https://github.com/user-attachments/assets/bfb0ab3e-1e3b-46e7-81d0-34dc55dd3c91" />  <img width="507" height="889" alt="ayarlar4" src="https://github.com/user-attachments/assets/8bb2dbff-e6cb-43fc-9a30-0d3558d0b15d" />
 Profil bilgilerinizi düzenleyin, karanlık modu aktif edin.
 
 ### Login 
