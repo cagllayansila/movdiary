@@ -86,10 +86,11 @@ Yeni film yorumu ekleyin, puan verin ve fotoğraf paylaşın.
 ### Kaydedilenler
 <img width="511" height="891" alt="kaydedilenler" src="https://github.com/user-attachments/assets/80dfd0ba-704f-4130-a423-c59c58a0108e" />
 
-Kaydettiğiniz filmleri ve gönderilerinizi görüntüleyin.
+Kaydettiğiniz filmleri görüntüleyin.
 
 ### Ayarlar
-<img width="497" height="891" alt="anasayfa" src="https://github.com/user-attachments/assets/880638e8-54cb-4a01-925a-678ec5206d3c" />
+<img width="497" height="891" alt="anasayfa" src="https://github.com/user-attachments/assets/880638e8-54cb-4a01-925a-678ec5206d3c" /><img width="503" height="887" alt="ayarlar2" src="https://github.com/user-attachments/assets/5e2dec79-3495-440a-82e4-66eaefc18ae3" />
+
 
 Profil bilgilerinizi düzenleyin, karanlık modu aktif edin.
 
