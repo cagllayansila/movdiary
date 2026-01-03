@@ -75,6 +75,7 @@ flutter run
 
 ### Keşfet
 <img width="505" height="880" alt="kkkesfet" src="https://github.com/user-attachments/assets/50dba23d-b7bb-4836-9f4b-6719dd7c8ef0" />
+
 Diğer kullanıcıların film yorumlarını görün.
 
 
