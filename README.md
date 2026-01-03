@@ -191,8 +191,8 @@ dependencies:
 ## 👨‍💻 Geliştirici
 
 Sıla Çağlayan
-- GitHub: Cagllayansila
-- LinkedIn: Cagllayansila
+- GitHub: [Cagllayansila](https://github.com/cagllayansila)
+- LinkedIn: [Cagllayansila](https://www.linkedin.com/feed/)
 
 ## 🙏 Teşekkürler
 
